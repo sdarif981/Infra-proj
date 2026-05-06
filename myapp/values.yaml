@@ -1,0 +1,8 @@
+backend:
+  image: sdarif/capg-backend:v2
+
+frontend:
+  image: sdarif/capg-frontend:v103
+
+mongo:
+  uri: mongodb+srv://sdarif981:RMuWbYAHt075isci@cluster0.llmm4.mongodb.net/Capg?retryWrites=true&w=majority  
