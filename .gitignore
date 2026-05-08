@@ -1,5 +1,5 @@
 # secrets
-myapp/value.yaml
+myapp/values.yaml
 k8s/mongo-secret.yaml
 
 # optional
