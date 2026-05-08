@@ -1,0 +1,8 @@
+# secrets
+myapp/value.yaml
+k8s/mongo-secret.yaml
+
+# optional
+*.pem
+*.key
+.env
